@@ -16,7 +16,7 @@
 
 
  ## Step 3
-  Go to the directory in which these files are saved Using This Tutorial and run the file 
+  Go to the directory in which these files are saved . Then Using This Tutorial and run the file 
   https://www.youtube.com/watch?v=pFYcAOsNyvs
 ## NICE NOW YOU CAN PLAY THIS GAME :)
 
