@@ -10,7 +10,7 @@
  ## Step 1
   Download These files and as zip and extract them 
 <video width="320" height="240" controls>
-  <source src="screenshots/download.mp4" type="video/mp4">
+  <source src="https://imgur.com/a/f2JVzga" type="video/mp4">
 </video>
  ## Step 2
   Open Command line in Your PC
