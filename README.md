@@ -9,7 +9,7 @@
 ### ⭐・ How to use ?
  ## Step 1
   Download These files and as zip and extract them 
-  https://user-images.githubusercontent.com/76162481/141667802-43f9ebfb-8666-4f0e-95bb-0bd1c44e51b8.mp4
+  ![test](https://user-images.githubusercontent.com/76162481/141667802-43f9ebfb-8666-4f0e-95bb-0bd1c44e51b8.mp4)
 
  ## Step 2
   Open Command line in Your PC
