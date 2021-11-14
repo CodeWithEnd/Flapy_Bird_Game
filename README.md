@@ -9,8 +9,7 @@
 ### ⭐・ How to use ?
  ## Step 1
   Download These files and as zip and extract them 
-  !(test)[https://user-images.githubusercontent.com/76162481/141667802-43f9ebfb-8666-4f0e-95bb-0bd1c44e51b8.mp4]
-
+  ![Imgur](https://imgur.com/a/f2JVzga.mp4)
  ## Step 2
   Open Command line in Your PC
   <img src="https://github.com/CodeWithEnd/Flapy_Bird_Game/blob/main/screenshots/beginner_tut1.png" width="200" height="400"/>
