@@ -1,7 +1,13 @@
-import pygame, sys , random
-from pygame import *
-import time
 import os
+try:
+    import pygame, sys , random
+    from pygame import *
+except:
+    os.system('pip install pygame')
+    import pygame, sys , random
+    from pygame import *
+import time
+
 pygame.init()
 
 class FlappyBird():
